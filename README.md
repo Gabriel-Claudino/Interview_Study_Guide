@@ -14,6 +14,7 @@ This repository contains a structured, senior-level DevOps interview question ba
 - [8. Shell](https://github.com/Gabriel-Claudino/Interview/wiki/08.-shell)
 - [9. Python](https://github.com/Gabriel-Claudino/Interview/wiki/09.-python-aws)
 - [10. Real World](https://github.com/Gabriel-Claudino/Interview/wiki/10.-real-world)
+- [11. Mixed Q&A for DBE](https://github.com/Gabriel-Claudino/Interview/wiki/11.-mixed-questions-dbe.md)
 
 ## How to Use
 
